@@ -1,6 +1,7 @@
 # serialize
 ## java  原生实现序列化
->>1.	实现Serializable接口
+>>
+1.	实现Serializable接口
 2.	ObjectInputStream  : 表示读取指定的字节数据转换成对象
 3.	ObjectOutputStream ：
 
